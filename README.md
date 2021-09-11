@@ -1,8 +1,9 @@
 
 
 # Первая глава
-
-
+Глава на написана, все сказано во второй
+# Вторая глава
+Тоже пусто))))
 <!--
 **Mi4rus/Mi4rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
